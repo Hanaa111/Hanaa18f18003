@@ -1,4 +1,0 @@
-int x, y, z
-read x, y
-x=x+y;
-print x
