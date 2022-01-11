@@ -2,3 +2,5 @@ int x, y, z
 read y, z
 x=y+z;
 print x
+a= b*c;
+print a
